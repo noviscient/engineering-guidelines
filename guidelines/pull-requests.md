@@ -1,6 +1,6 @@
 # Pull requests
 
-- [Link to the Asana ticket in the pull request description](#link-to-ticket)
+- [Link to the ticket in the pull request description](#link-to-ticket)
 - [Keep pull requests small](#keep-prs-small)
 - [Ensure your reviewers have enough context](#ensure-reviewers-have-context)
 - [Commit message format](#commit-message-format)
